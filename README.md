@@ -1,4 +1,4 @@
-e adean4;
+package adean4;
 
 import java.util.ArrayList;
 import java.util.Scanner;
